@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bancos">
+        <item value="1">Banamex</item>
+        <item value="2">Bancomer</item>
+        <item value="3">Banorte</item>
+        <item value="4">Santander</item>
+        <item value="5">Scotiabank</item>
+    </string-array>
+</resources>
